@@ -1,5 +1,5 @@
 An unfinished personal portfolio website. 
-LINK: [Here](riverbumpas.github.io)
+LINK: [Here](https://riverbumpas.github.io/)
 TODO:
 - Add projects
 - Add contact info
